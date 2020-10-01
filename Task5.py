@@ -1,6 +1,7 @@
 # Ques 1
 
 lis = "aneesh kumar"
+print(The Length of your name is :)
 print(len(lis))
 
 """-------------------------------------------------------------------------------------------"""
